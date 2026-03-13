@@ -74,7 +74,7 @@ RAG-CHATBOT/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/rag-chatbot.git
+   git clone https://github.com/YOUR-USERNAME/conversational-rag-chatbot.git
    cd rag-chatbot
    ```
 
